@@ -1,2 +1,4 @@
 # feather-fox
-Unity project for Seyka Studio's first official video game.
+Unity project containing all the game files for Feather-Fox, Seyka Studio's first officially released video-game.
+
+Play not at: https://play.unity.com/mg/other/webgl-builds-147147
